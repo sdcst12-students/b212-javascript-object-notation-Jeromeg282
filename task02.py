@@ -1,5 +1,6 @@
 #!python3
 import requests
+#Install requests in terminal 
 import json
 
 # we can use requests to retrieve json encoded data from the internet
